@@ -18,7 +18,19 @@ namespace Problem3
     {
         static string isPalindromePermutation(string s)
         {
+            char[] reverseChar = s.ToCharArray();
+            Array.Reverse(reverseChar);
 
+            string reverse = new string(reverseChar);
+
+            if (reverse.Equals(s, StringComparison.OrdinalIgnoreCase))
+            {
+                return "YES";
+            }
+            else
+            {
+                return "NO";
+            }
         }
 
         static void Main(string[] args)

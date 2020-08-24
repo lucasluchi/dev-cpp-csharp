@@ -1,0 +1,7 @@
+C:\projects\VS2019\Test Software Developer C_C++_C#_NP_New Features-17-v4\Problem 3 - CSharp\Problem3\obj\Debug\Problem3.csprojAssemblyReference.cache
+C:\projects\VS2019\Test Software Developer C_C++_C#_NP_New Features-17-v4\Problem 3 - CSharp\Problem3\obj\Debug\Problem3.csproj.CoreCompileInputs.cache
+C:\projects\VS2019\Test Software Developer C_C++_C#_NP_New Features-17-v4\Problem 3 - CSharp\Problem3\bin\Debug\Problem3.exe.config
+C:\projects\VS2019\Test Software Developer C_C++_C#_NP_New Features-17-v4\Problem 3 - CSharp\Problem3\bin\Debug\Problem3.exe
+C:\projects\VS2019\Test Software Developer C_C++_C#_NP_New Features-17-v4\Problem 3 - CSharp\Problem3\bin\Debug\Problem3.pdb
+C:\projects\VS2019\Test Software Developer C_C++_C#_NP_New Features-17-v4\Problem 3 - CSharp\Problem3\obj\Debug\Problem3.exe
+C:\projects\VS2019\Test Software Developer C_C++_C#_NP_New Features-17-v4\Problem 3 - CSharp\Problem3\obj\Debug\Problem3.pdb
