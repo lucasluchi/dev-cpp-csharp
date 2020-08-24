@@ -17,9 +17,24 @@ namespace Problem4
 {
     class Solution
     {
+        public static int combinations(int[] arr, int len, int n)
+        {
+            // there is 1 solution  
+            if (n == 0)
+                return 1;
+
+            // there is no solution
+            if ((len <= 0 && n >= 1) || (n < 0))
+                return 0;
+
+            return combinations(arr, len - 1, n) + combinations(arr, len, n - arr[len - 1]);
+        }
+
         public static int getNumberOfCombinations(int n)
         {
+            int[] coins = { 1, 5, 10, 20, 25, 50 };
 
+            return combinations(coins, coins.Length, n);
         }
         public static void Main(string[] args)
         {
